@@ -1,5 +1,5 @@
-const api_key = 'f51d6414d559c97967e97f9a50486cd3';
-const api_id = '153d9965';
+const api_key = (your_api_key);
+const api_id = (your_api_id);
 
 const search = document.getElementById('search-btn');
 const main = document.getElementById('recipes-display')
