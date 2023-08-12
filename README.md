@@ -15,6 +15,7 @@ Home page:
 Recipes:
 <br>
 <img width="947" alt="image" src="https://github.com/advika-kharat/find-my-recipe/assets/113823788/ec73d45f-86aa-48c9-b3a1-b12309cbe932">
+<br><br>
 Restaurants based on input location:
 <br>
 <img width="949" alt="image" src="https://github.com/advika-kharat/find-my-recipe/assets/113823788/681d17fb-4d27-42f1-b466-76a180564894">
